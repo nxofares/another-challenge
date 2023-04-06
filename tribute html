@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <main id="main">
+  <head>
+    <title>Tribute Page</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div id="main">
+      <div id="title">
+        <h1>Dr. Norman Borlaug</h1>
+      </div>
+      <div id="img-div">
+        <img id="image" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Norman_Borlaug%2C_2004.jpg" alt="Dr. Norman Borlaug">
+        <div id="img-caption">
+          <p>Dr. Norman Borlaug, founder of the World Food Prize.</p>
+        </div>
+      </div>
+      <div id="tribute-info">
+        <p>Dr. Norman Ernest Borlaug (March 25, 1914 – September 12, 2009) was an American agronomist who led initiatives worldwide that contributed to the extensive increases in agricultural production termed the Green Revolution.</p>
+      </div>
+      <a id="tribute-link" href="https://en.wikipedia.org/wiki/Norman_Borlaug" target="_blank">Learn more about Dr. Borlaug's life and work</a>
+    </div>
+  </body>
+</main>
+</html>
